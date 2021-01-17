@@ -2,11 +2,11 @@
 
 .naviBar {
   font-size: 24px;
-  background: black;
+  background-color: black;
 }
 
 .naviBar ul.navbar-nav li a {
-  background: black;
+  background-color: black;
   color: grey;
 }
 
@@ -15,7 +15,7 @@
 }
 
 .naviBar .navbar-brand {
-  background: black;
+  background-color: black;
   color: black;
 }
 
@@ -100,7 +100,7 @@
 }
 .pageFour h1{color: silver;
 padding: 75px;}
-.pageFour .btnlist{background: black;
+.pageFour .btnlist{background-color: black;
 color: limegreen;
 border-style: solid;}
 .pageFour .btnlist:hover{
